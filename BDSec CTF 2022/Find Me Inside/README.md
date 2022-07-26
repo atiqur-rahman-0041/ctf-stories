@@ -10,7 +10,7 @@ It might take some time to analyze thw whole thing. After finishing we would see
 
 ![My Image](Images/image_2.PNG)
 
-If we look carefully, we will see a RAR file was found and by extracting it the tool found a file named **"cry100"**. 
+If we look carefully, we will see a RAR file was found and by extracting it the tool found a file named **"cry100"**.
 
 ![My Image](Images/image_3.PNG)
 

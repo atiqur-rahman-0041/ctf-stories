@@ -1,8 +1,8 @@
->**My friend gave me his game username and game id . Can decode game id ?**
+>***My friend gave me his game username and game id . Can decode game id ?***
 >
->**User : rot**
+>***User : rot***
 >
->**Game ID : OQFRP{pelcg0_ne3_nj3f0z3}**
+>***Game ID : OQFRP{pelcg0_ne3_nj3f0z3}***
 
 There's a hint to solve this problem in the problem statement. The username is **rot**. It suggests a certain cipher named **ROT13**. **ROT13** is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet. ROT13 is a special case of the **Caesar Cipher**.
 

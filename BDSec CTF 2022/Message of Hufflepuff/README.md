@@ -1,4 +1,4 @@
-**One day, Harry Potter was roaming around the Hufflepuff, one of the four Hogwarts houses. Inside one of the room of Hufflepuff, he found a secret numeric message and a graph. Now, he is curious to know what is written in the secret neumeric message. Can you help him to figure it out?**
+>***One day, Harry Potter was roaming around the Hufflepuff, one of the four Hogwarts houses. Inside one of the room of Hufflepuff, he found a secret numeric message and a graph. Now, he is curious to know what is written in the secret neumeric message. Can you help him to figure it out?***
 
 So, there is a hint hidden inside the name of this problem, "Message of ***Huff***lepuff" --> well it's ***Huffman Coding***. And guess what, I couldn't even figure this out during the ctf, haha, the irony!! 
 

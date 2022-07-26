@@ -1,4 +1,4 @@
-***I'm stuck in the Dark.***
+>***I'm stuck in the Dark.***
 
 In this problem a GIF file is given and from the problem statement we can infer that the GIF file has some hidden message inside it.
 

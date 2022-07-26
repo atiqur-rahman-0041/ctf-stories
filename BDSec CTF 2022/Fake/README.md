@@ -6,4 +6,4 @@ We can see a spam mail in the given **fake.txt** file. We put the spam message i
 
 So, yeah, we have our flag. Simple, isn't it? 
 
->**The flag is BDSEC{do3sn't_b3li3ve_1n_unkn0wn_mail}**
+>>>**The flag is BDSEC{do3sn't_b3li3ve_1n_unkn0wn_mail}**

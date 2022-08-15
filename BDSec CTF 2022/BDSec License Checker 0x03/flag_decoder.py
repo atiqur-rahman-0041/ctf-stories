@@ -1,0 +1,23 @@
+from caesarcipher import CaesarCipher
+
+encoded_flag_as_list_of_number = [
+    0x7d, 0x78, 0x54, 0x6e, 0x53, 0x77, 0x5f, 0x54, 0x54, 0x6d, 0x57, 0x6f, 0x5f, 0x6d, 0x54, 0x66, 0x52, 0x7a, 0x57, 
+    0x78, 0x5f, 0x54, 0x6e, 0x69, 0x54, 0x78, 0x58, 0x67, 0x5f, 0x6e, 0x49, 100, 0x7b, 0x52, 0x54, 0x48, 0x53, 0x51
+]
+
+encoded_flag = ""
+
+for item in encoded_flag_as_list_of_number:
+    encoded_flag += chr(item)
+
+decoded_flag = ""
+
+for c in encoded_flag:
+    if c.islower():
+        decoded_flag += CaesarCipher(c, offset=8).decoded
+    elif c.isupper():
+        decoded_flag += CaesarCipher(c, offset=2).decoded
+    else:
+        decoded_flag += c
+
+print(CaesarCipher(decoded_flag[::-1], offset=13).decoded)
